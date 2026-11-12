@@ -36,6 +36,7 @@ En esta primera etapa se implementaron las siguientes funcionalidades:
 - Listado de vehículos mediante GET y función `load`.
 - Registro de vehículos mediante POST y Form Actions.
 - Validaciones básicas del formulario, incluyendo el control de padrón duplicado.
+- Se creó un pdf con las capturas de pantallas 
 
 Los datos utilizados en esta etapa son simulados y se almacenan temporalmente en memoria. La conexión con PostgreSQL se realizará en una etapa posterior.
 
